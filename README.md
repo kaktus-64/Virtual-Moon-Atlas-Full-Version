@@ -239,3 +239,6 @@ This repository serves as the official landing page for Virtual Moon Atlas. The 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Virtual Moon Atlas today!**
+
+---
+**Last updated:** 2026-09-09 23:37:13 UTC
